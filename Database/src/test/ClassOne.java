@@ -19,7 +19,7 @@ public class ClassOne {
 
 		String url = "jdbc:postgresql://localhost/postgres";
 		String user = "rasmusoberg";
-		String password = "Mbirjr94!";
+		String password = "fzLtBWF3Qxb2juq";
 		
 //		String url = "jdbc:postgresql://pgserver.mah.se:80/AE7610";
 //		String user ="AE7610";
